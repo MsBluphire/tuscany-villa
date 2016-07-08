@@ -4,8 +4,16 @@
     border-style:solid;
     border-color:white;
 }
-li a{
-    text-align:center;
+.bg {
+    background-color: #FFAAAA;
+    height:100%;
 }
-  
- 
+
+.img-container{
+    height:100%;
+    max-height:200px;
+}
+
+img{
+    height:100% !important;
+}

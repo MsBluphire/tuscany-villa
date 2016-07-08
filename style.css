@@ -2,8 +2,10 @@
 }
 .row{
     border-style:solid;
+    border-color:white;
 }
-
-
+li a{
+    text-align:center;
+}
   
  
